@@ -1,4 +1,4 @@
-# Passenger Survival Prediction
+# Passenger Survival Prediction By Agrim Chauhan
 
 This project predicts the survival of passengers on the Titanic using machine learning techniques. The dataset used for this project includes passenger details such as age, sex, class, and fare, among others. The prediction model achieves an accuracy of **84.92%**.
 
